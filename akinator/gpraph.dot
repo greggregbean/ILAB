@@ -1,0 +1,12 @@
+digraph 
+{
+ 24824128 [shape=record, fillcolor = darkkhaki, style = filled, label = " { Animal  | Addr: 0x5581017ac940 | {Yes: 0x5581017ac9a0 | No: 0x5581017aca00 }}" ] 
+ 24824128 -> 24824224 [label = " Yes "]; 
+ 24824224 [shape=record, fillcolor = darkkhaki, style = filled, label = " { Otchislen v 1 sem | Addr: 0x5581017ac9a0 | {Yes: 0x5581017abda0 | No: 0x5581017abd80 }}" ] 
+ 24824224 -> 24821152 [label = " Yes "]; 
+ 24821152 [shape=record, fillcolor = darkkhaki, style = filled, label = " { Gosha Moskvin | Addr: 0x5581017abda0 | {Yes: (nil) | No: (nil) }}" ] 
+ 24824224 -> 24821120 [label = " No "]; 
+ 24821120 [shape=record, fillcolor = darkkhaki, style = filled, label = " { Monkey  | Addr: 0x5581017abd80 | {Yes: (nil) | No: (nil) }}" ] 
+ 24824128 -> 24824320 [label = " No "]; 
+ 24824320 [shape=record, fillcolor = darkkhaki, style = filled, label = " { Kostik chelik  | Addr: 0x5581017aca00 | {Yes: (nil) | No: (nil) }}" ] 
+}

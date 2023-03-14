@@ -1,0 +1,36 @@
+digraph 
+{
+-569088720 [shape=record, fillcolor = wheat1, style = filled, label = " {/| Type: / | Addr: 0x5573de146530 | {Left: 0x5573de147990 | Right: 0x5573de1479f0 }}" ] 
+-569088720 -> -569083504 [label = " Left "]; 
+-569083504 [shape=record, fillcolor = wheat1, style = filled, label = " {-| Type: - | Addr: 0x5573de147990 | {Left: 0x5573de147930 | Right: 0x5573de147960 }}" ] 
+-569083504 -> -569083600 [label = " Left "]; 
+-569083600 [shape=record, fillcolor = wheat1, style = filled, label = " {*| Type: * | Addr: 0x5573de147930 | {Left: 0x5573de147600 | Right: 0x5573de147870 }}" ] 
+-569083600 -> -569084416 [label = " Left "]; 
+-569084416 [shape=record, fillcolor = wheat1, style = filled, label = " {*| Type: * | Addr: 0x5573de147600 | {Left: 0x5573de147900 | Right: 0x5573de147690 }}" ] 
+-569084416 -> -569083648 [label = " Left "]; 
+-569083648 [shape=record, fillcolor = wheat1, style = filled, label = " {^| Type: ^ | Addr: 0x5573de147900 | {Left: 0x5573de147630 | Right: 0x5573de1478d0 }}" ] 
+-569083648 -> -569084368 [label = " Left "]; 
+-569084368 [shape=record, fillcolor = wheat1, style = filled, label = " {x| Type: v | Addr: 0x5573de147630 | {Left: (nil) | Right: (nil) }}" ] 
+-569083648 -> -569083696 [label = " Right "]; 
+-569083696 [shape=record, fillcolor = wheat1, style = filled, label = " {1| Type: n | Addr: 0x5573de1478d0 | {Left: (nil) | Right: (nil) }}" ] 
+-569084416 -> -569084272 [label = " Right "]; 
+-569084272 [shape=record, fillcolor = wheat1, style = filled, label = " {2| Type: n | Addr: 0x5573de147690 | {Left: (nil) | Right: (nil) }}" ] 
+-569083600 -> -569083792 [label = " Right "]; 
+-569083792 [shape=record, fillcolor = wheat1, style = filled, label = " {x| Type: v | Addr: 0x5573de147870 | {Left: (nil) | Right: (nil) }}" ] 
+-569083504 -> -569083552 [label = " Right "]; 
+-569083552 [shape=record, fillcolor = wheat1, style = filled, label = " {*| Type: * | Addr: 0x5573de147960 | {Left: 0x5573de147840 | Right: 0x5573de1477b0 }}" ] 
+-569083552 -> -569083840 [label = " Left "]; 
+-569083840 [shape=record, fillcolor = wheat1, style = filled, label = " {^| Type: ^ | Addr: 0x5573de147840 | {Left: 0x5573de147810 | Right: 0x5573de1477e0 }}" ] 
+-569083840 -> -569083888 [label = " Left "]; 
+-569083888 [shape=record, fillcolor = wheat1, style = filled, label = " {x| Type: v | Addr: 0x5573de147810 | {Left: (nil) | Right: (nil) }}" ] 
+-569083840 -> -569083936 [label = " Right "]; 
+-569083936 [shape=record, fillcolor = wheat1, style = filled, label = " {2| Type: n | Addr: 0x5573de1477e0 | {Left: (nil) | Right: (nil) }}" ] 
+-569083552 -> -569083984 [label = " Right "]; 
+-569083984 [shape=record, fillcolor = wheat1, style = filled, label = " {1| Type: n | Addr: 0x5573de1477b0 | {Left: (nil) | Right: (nil) }}" ] 
+-569088720 -> -569083408 [label = " Right "]; 
+-569083408 [shape=record, fillcolor = wheat1, style = filled, label = " {^| Type: ^ | Addr: 0x5573de1479f0 | {Left: 0x5573de1478a0 | Right: 0x5573de1479c0 }}" ] 
+-569083408 -> -569083744 [label = " Left "]; 
+-569083744 [shape=record, fillcolor = wheat1, style = filled, label = " {x| Type: v | Addr: 0x5573de1478a0 | {Left: (nil) | Right: (nil) }}" ] 
+-569083408 -> -569083456 [label = " Right "]; 
+-569083456 [shape=record, fillcolor = wheat1, style = filled, label = " {2| Type: n | Addr: 0x5573de1479c0 | {Left: (nil) | Right: (nil) }}" ] 
+}

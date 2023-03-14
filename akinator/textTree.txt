@@ -1,0 +1,15 @@
+{
+Animal  
+{
+Otchislen v 1 sem 
+{
+Gosha Moskvin 
+}
+{
+Monkey  
+}
+}
+{
+Kostik chelik  
+}
+}

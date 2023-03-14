@@ -1,0 +1,14 @@
+Warning: The selected output language "russian" has not been updated
+since release 1.6.0.  As a result some sentences may appear in English.
+
+D:/Programming/liner/doc.h:3: warning: Member MAXLEN (define) of file doc.h is not documented.
+Problems running dot: exit code=-1, command='dot', arguments='"D:/Programming/liner/doxygen/html/graph_legend.dot" -Tpng -o "D:/Programming/liner/doxygen/html/graph_legend.png"'
+Problems running dot: exit code=-1, command='dot', arguments='"D:/Programming/liner/doxygen/html/doc_8h__dep__incl.dot" -Tpng -o "D:/Programming/liner/doxygen/html/doc_8h__dep__incl.png"'
+Problems running dot: exit code=-1, command='dot', arguments='"D:/Programming/liner/doxygen/html/linerfunction_8cpp__incl.dot" -Tpng -o "D:/Programming/liner/doxygen/html/linerfunction_8cpp__incl.png"'
+error: problems opening map file D:/Programming/liner/doxygen/html/doc_8h__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file D:/Programming/liner/doxygen/html/linerfunction_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: failed to run html help compiler on index.hhp

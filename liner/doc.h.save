@@ -1,0 +1,14 @@
+//! @file doc.h
+
+#define MAXLEN 1000
+
+//! @brief The function gets the strings from a file
+//! @note The function puts the strings 
+//! @param 
+//! @param 
+//! @return 
+//!
+//!
+
+
+void liner(char* str, char** index, FILE *fp);

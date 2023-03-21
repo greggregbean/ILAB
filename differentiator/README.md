@@ -6,8 +6,8 @@ Then it differentiate the expression by modifying the tree. You can see interest
 
 To see it in work make three simple steps:
   1. Clone the repo.
-  2. Open the cloned repo in command.
-  3. Write make in console.
+  2. Open the cloned repo in command line.
+  3. Write 'make' in console.
 
   
 

@@ -1,5 +1,5 @@
 # CPU
-So this programm simulates the work of Central Proccessing Unit. It has 3 parts: Stack, Translator and actually Cpu.
+So this programm simulates the work of Central Proccessing Unit, which is able to process practiacally all basic commands (all supported commands you can find in appropriate headers of the Translator folder). It has 3 parts: Stack, Translator and actually Cpu.
 Let's talk about each of them.
 ## Stack
 This part answers for Stack of Cpu. It has constructor, distructor, push, pop, resize and security verification. The main perpose of verification is to protect the stack safety. It is released by canary technology.

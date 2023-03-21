@@ -7,3 +7,7 @@ This part answers for Stack of Cpu. It has constructor, distructor, push, pop, r
 This part answers for translation an "assambler" file to numerical file, which will be understandable for Cpu. It is made with the help of #define-s and headers, which seems not to be obvious and readable, but it helps to solve copy-paste problem.
 ## Cpu
 This part answers for the "mind" of our processor. It has registers, constructor, distructor and connection to the stack. It releases all work with the stack and registers, by processing numerical file and making appropriate commands.
+
+So, I whish you like it. You can also look for another interesting projects in my profile. Have a nice day or night!
+
+(＠＾◡＾)

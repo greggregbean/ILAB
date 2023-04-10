@@ -104,54 +104,6 @@ void printVal(treeEl* node)
         printf("%c", (node -> val).varOrOper);
 }
 
-//НАДО ДОРАБОТАТЬ
-/*void AddDivDump(treeEl* node)
-{
-    if(node -> left != nullptr)
-        MulSubDump(node -> left);
-
-    printVal(node);
-
-    if(node -> right != nullptr)
-        MulSubDump(node -> right);
-}
-
-void MulSubDump(treeEl* node)
-{
-    if(node -> left != nullptr)
-        PowDump(node -> left);
-
-    printVal(node);
-
-    if(node -> right != nullptr)
-        PowDump(node -> right);
-}
-
-void PowDump(treeEl* node)
-{
-    if(node -> left != nullptr)
-        VarNumDump(node -> left);
-
-    printVal(node);
-
-    if(node -> right != nullptr)
-        VarNumDump(node -> right);
-}
-
-void VarNumDump(treeEl* node)
-{
-    if ((node -> type == NUM) || (node -> type == VAR))
-        printVal(node);
-
-    else
-    {
-        printf("(");
-        AddDivDump(node);
-        printf(")");
-    }
-}*/
-
-
 //READER:
 void spaceSkip(FILE* filep)
 {

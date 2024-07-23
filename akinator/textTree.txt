@@ -3,7 +3,7 @@ Animal
 {
 Otchislen v 1 sem 
 {
-Gosha Moskvin 
+Razdolv 
 }
 {
 Monkey  
